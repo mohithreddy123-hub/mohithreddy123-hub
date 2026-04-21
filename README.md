@@ -1,62 +1,139 @@
-# Hi, I'm Mohith 👋  
+<h1 align="center">⚡ Mohith Reddy ⚡</h1>
 
-Full Stack Developer (Django & React)  
+<h3 align="center">Full Stack Developer 🧑‍💻</h3>
+
+<p align="center">
+🚀 Passionate Full Stack Developer from India | Django & React | AI/ML Enthusiast
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🔗 Connect With Me
 
-### 👨‍💻 Programming
-Python | JavaScript  
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:mohithreddy382@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
-### 🌐 Frontend
-React.js | HTML | CSS | Tailwind CSS | Streamlit  
+---
 
-### ⚙️ Backend
-Django | Django REST Framework | Flask | FastAPI | Django Channels | Daphne  
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+---
+
+### 🎨 Frontend Technologies
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+</p>
+
+---
+
+### ⚙️ Backend Technologies
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+</p>
+
+---
 
 ### 🗄️ Databases
-PostgreSQL | MySQL | SQLite  
 
-### 🔧 Tools & DevOps
-Git | GitHub  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
 
-### 🧠 Concepts
-REST APIs | Multi-Tenancy | WebSockets | JWT Authentication | Component-Based Architecture | Responsive Design  
+---
+
+### 🛠️ Tools & Others
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
 
 ### 🤖 AI / ML
-Pandas | NumPy | SciPy | Scikit-learn | OpenCV | Computer Vision | Signal Processing  
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Multi-Tenant SaaS Platform
-- Built using Django & React  
-- Role-based access (Admin/Employee)  
-- Secure document system with version control  
-- Billing system with subscriptions & payments  
-- Real-time features using WebSockets  
+✔ Django + React  
+✔ Role-based access  
+✔ WebSockets real-time features  
+✔ Billing & subscriptions  
 
 ---
 
 ### 🔹 AI Health Monitoring System
-- Estimated heart rate & respiratory rate from video  
-- Implemented rPPG with signal processing  
-- Used OpenCV, SciPy & ML models  
+✔ Computer vision-based health tracking  
+✔ OpenCV + ML  
+✔ Signal processing  
 
 ---
 
-### 🔹 Enhancing Caption Diversity & Distinctiveness
-- Transformer-based image captioning using BLIP  
-- Vision Transformer (ViT) + Transformer decoder  
-- Implemented Top-k / Top-p sampling for diversity  
-- Applied contrastive learning & reinforcement strategies  
-- Evaluated using BLEU, METEOR, CIDEr, SPICE  
-- Built Flask web app for real-time caption generation  
+### 🔹 Caption Diversity Transformer
+✔ BLIP + Vision Transformer  
+✔ Top-k / Top-p sampling  
+✔ Contrastive + RL techniques  
+✔ Flask web app  
 
 ---
 
-## 📫 Contact
-- Email: mohithreddy382@gmail.com  
-- LinkedIn: www.linkedin.com/in/mohith-reddy-2480a2288
+## 🎯 Current Focus
+
+### ✅ Completed
+- Multi-Tenant SaaS Platform  
+- AI Health Monitoring System  
+- Transformer Caption Project  
+
+### 🚧 In Progress
+- Advanced Full Stack Applications  
+- AI + SaaS Integration  
+
+---
+
+## 💬 Developer Thought
+
+> "Building real-world systems is better than learning theory alone."
+
+---
+
+## 📬 Get In Touch
+
+<p align="center">
+I'm open to internships and collaborations 🚀
+</p>
+
+<p align="center">
+<a href="mailto:mohithreddy382@gmail.com">📧 Email Me</a>
+</p>
