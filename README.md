@@ -11,9 +11,9 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/mohith-reddy-2480a2288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 <a href="mailto:mohithreddy382@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
