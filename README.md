@@ -59,4 +59,4 @@ Pandas | NumPy | SciPy | Scikit-learn | OpenCV | Computer Vision | Signal Proces
 
 ## 📫 Contact
 - Email: mohithreddy382@gmail.com  
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/mohith-reddy-2480a2288
