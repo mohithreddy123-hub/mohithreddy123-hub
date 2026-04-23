@@ -130,7 +130,7 @@
 
 ## 📬 Get In Touch
 
-<p align="center">
+<p align="center"> 
 I'm open to internships and collaborations 🚀
 </p>
 
