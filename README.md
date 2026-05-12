@@ -124,6 +124,7 @@
 
 ## 💬 Developer Thought
 
+
 > "Building real-world systems is better than learning theory alone."
 
 ---
